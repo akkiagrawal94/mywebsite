@@ -77,13 +77,13 @@ span{
 }
 .nav{
     background-color: #1f1a1a;
-    padding: 0 5%;
+   
     text-align: left;
 }
 
 .nav_class_list{
     list-style: none;
-    padding-left: 0px;
+   
 }
 
 .nav_class_list li a{
@@ -94,7 +94,7 @@ span{
     text-decoration: none;
     display: inline-block;
     margin: 0 3%;
-    padding: 5px 5px;
+   
 }
 
 .nav_links li a{
