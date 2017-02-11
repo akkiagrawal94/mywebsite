@@ -78,7 +78,8 @@ span{
 .nav{
     background-color: #1f1a1a;
    
-    text-align: right;
+    text-align: left;
+    margin-left: 30px;
 }
 
 .nav_class_list{
