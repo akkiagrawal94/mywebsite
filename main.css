@@ -1,3 +1,21 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @akkiagrawal94
+ Sign out
+ Watch 1
+  Star 0
+ Fork 0 raharongit/raharongit.github.io
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathraharongit.github.io/main.css
+2188d70  on Oct 25, 2016
+@raharongit raharongit quora linked changed
+1 contributor
+RawBlameHistory     
+257 lines (210 sloc)  3.18 KB
 body{
     background-color: #f1f2f1;
     color: black;
@@ -61,9 +79,9 @@ span{
 }
 
 #profile img{
-    height: 200px;
-    width: 2000px;
-    border-radius: 70%;
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
     border: 2px solid #35393d;
     vertical-align: top;
 }
@@ -77,13 +95,13 @@ span{
 }
 .nav{
     background-color: #1f1a1a;
+    padding: 0 20%;
     text-align: center;
-    margin-left: 0px;
 }
 
 .nav_class_list{
     list-style: none;
-   
+    padding-left: 0px;
 }
 
 .nav_class_list li a{
@@ -94,7 +112,7 @@ span{
     text-decoration: none;
     display: inline-block;
     margin: 0 3%;
-   
+    padding: 10px 10px;
 }
 
 .nav_links li a{
